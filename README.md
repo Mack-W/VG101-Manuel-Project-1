@@ -65,6 +65,4 @@ end if
 Each keyword inside quotation marks represent a variable that I use to describe the status of the car. Actually, I used a class called `car` to describe the behavior of all cars. That had already made my code easier to read and to maintain, but it is still confusing at some point, like the algorithm mentioned above.
 ## License
 This project is licensed under GNU LGPL v2.1.  
-This means that I uploaded the code of this project for the sake of future UM-JI students finding it helpful, BUT WITHOUT ANY WARRANTY.  
-
-*This is the end of README*
+This means that I uploaded the code of this project for the sake of future UM-JI students finding it helpful, BUT WITHOUT ANY WARRANTY.
